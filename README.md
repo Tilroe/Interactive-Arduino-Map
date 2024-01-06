@@ -1,6 +1,6 @@
 # Interactive Arduino Map
 
-An assignment from the winter 2022 semester of CMPUT 275
+An assignment from the winter 2020 semester of CMPUT 275
 
 ## Info
 * **Names**: 	Rowan Tilroe, Filippo Ciandy
